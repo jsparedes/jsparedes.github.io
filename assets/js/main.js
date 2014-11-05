@@ -78,7 +78,7 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : 'assets/img/slider-images/image01.jpg', title : '<div class="slide-content">Jorg</div>', thumb : '', url : ''},
-											{image : 'assets/img/slider-images/image02.jpg', title : '<div class="slide-content">Salvador</div>', thumb : '', url : ''},
+											{image : 'assets/img/slider-images/image02.jpg', title : '<div class="slide-content">Continouos effort - not strenght or intelligence - is the key to unlocking our potential</div>', thumb : '', url : ''},
 											{image : 'assets/img/slider-images/image03.jpg', title : '<div class="slide-content">Paredes</div>', thumb : '', url : ''},
 											{image : 'assets/img/slider-images/image04.jpg', title : '<div class="slide-content">Merino</div>', thumb : '', url : ''}  
 									],
